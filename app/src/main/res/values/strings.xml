@@ -9,4 +9,16 @@
     <string name="motivo_de_contacto_lo_m_s_detallado_y_expl_cito_posible">Motivo de contacto, lo más detallado y explícito posible</string>
     <string name="button">Button</string>
     <string name="enviar">Enviar</string>
+    <string name="los_404">LOS 404</string>
+    <string name="img_user1">IMG_USER1</string>
+    <string name="img_user2">IMG_USER2</string>
+    <string name="img_user3">IMG_USER3</string>
+    <string name="img_user4">IMG_USER4</string>
+    <string name="somos_un_equipo_de_4_estudiantes_de_ingenier_a_en_inform_tica_con_conocimientos_en_diversos_lenguajes_y_tecnolog_as_incluyendo_java_python_mysql_aragon_html_javascript_c_c_y_css_nos_enfocamos_en_el_aprendizaje_constante_el_desarrollo_de_proyectos_innovadores_y_la_aplicaci_n_pr_ctica_de_nuestras_habilidades_para_resolver_problemas_tecnol_gicos">Somos un equipo de 4 estudiantes de Ingeniería en Informática con conocimientos en diversos lenguajes y tecnologías, incluyendo Java, Python, MySQL, Aragon, HTML, JavaScript, C, C++ y CSS. Nos enfocamos en el aprendizaje constante, el desarrollo de proyectos innovadores y la aplicación práctica de nuestras habilidades para resolver problemas tecnológicos.</string>
+    <string name="contactar">Contactar</string>
+    <string name="gonzalo_fuentes">Gonzalo Fuentes</string>
+    <string name="benjamin_pizarro">Benjamin Pizarro</string>
+    <string name="aaron_centeno">Aaron Centeno</string>
+    <string name="ignacio_navarrete">Ignacio Navarrete</string>
+    <string name="cancelar">Cancelar</string>
 </resources>
