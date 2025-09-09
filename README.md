@@ -1,1 +1,1 @@
-Esta rama será solo para Ignacio Navarrete y todo su avance en el proyecto.
+Esta rama será solo para Benjamin Pizarro y todo su avance en el proyecto.
