@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MiPortafolio</string>
+    <string name="benjam_n_pizarro">Benjamín Pizarro</string>
+    <string name="ingenier_a_en_inform_tica">Ingeniería en Informática</string>
+    <string name="soy_estudiante_de_ingenier_a_en_inform_tica_con_inter_s_en_el_desarrollo_de_software_y_una_s_lida_base_en_varios_lenguajes_de_programaci_n_me_encuentro_en_constante_aprendizaje_para_ampliar_mis_habilidades_y_enfrentar_nuevos_desaf_os_tecnol_gicos">Soy estudiante de Ingeniería en Informática, con interés en el desarrollo de software y una sólida base en varios lenguajes de programación. Me encuentro en constante aprendizaje para ampliar mis habilidades y enfrentar nuevos desafíos tecnológicos.</string>
+    <string name="html_nivel_medio">HTML (Nivel Medio)</string>
+    <string name="se_utiliza_para_crear_y_estructurar_el_contenido_de_las_p_ginas_web_permite_definir_t_tulos_p_rrafos_enlaces_y_otros_elementos_que_los_navegadores_interpretan_es_la_base_de_cualquier_sitio_web_y_se_complementa_con_css_para_el_dise_o_y_javascript_para_la_interactividad">Se utiliza para crear y estructurar el contenido de las páginas web. Permite definir títulos, párrafos, enlaces y otros elementos que los navegadores interpretan. Es la base de cualquier sitio web y se complementa con CSS para el diseño y JavaScript para la interactividad.</string>
+    <string name="python_nivel_medio">Python (Nivel Medio)</string>
+    <string name="es_un_lenguaje_de_programaci_n_de_alto_nivel_ampliamente_empleado_en_el_desarrollo_web_an_lisis_de_datos_inteligencia_artificial_automatizaci_n_de_tareas_y_aplicaciones_cient_ficas_es_conocido_por_su_sintaxis_simple_y_legible_lo_que_lo_hace_ideal_para_principiantes_y_para_proyectos_complejos">Es un lenguaje de programación de alto nivel, ampliamente empleado en el desarrollo web, análisis de datos, inteligencia artificial, automatización de tareas, y aplicaciones científicas. Es conocido por su sintaxis simple y legible, lo que lo hace ideal para principiantes y para proyectos complejos.</string>
+    <string name="cont_ctame_por_whatsapp">Contáctame por WhatsApp</string>
+    <string name="enviar_mensaje">Enviar Mensaje</string>
+</resources>
