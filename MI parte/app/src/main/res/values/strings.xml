@@ -1,0 +1,15 @@
+<resources>
+    <string name="benjam_n_pizarro">Benjamín Pizarro</string>
+    <string name="ingenier_a_en_inform_tica">Ingeniería en Informática</string>
+    <string name="soy_estudiante_de_ingenier_a_en_inform_tica_con_inter_s_en_el_desarrollo_de_software_y_una_s_lida_base_en_varios_lenguajes_de_programaci_n_me_encuentro_en_constante_aprendizaje_para_ampliar_mis_habilidades_y_enfrentar_nuevos_desaf_os_tecnol_gicos">Soy estudiante de ingeniería en informática con interés en el desarrollo de software y una sólida base en varios lenguajes de programación. Me encuentro en constante aprendizaje para ampliar mis habilidades y enfrentar nuevos desafíos tecnológicos.</string>
+
+    <string name="html">HTML</string>
+    <string name="html_description">Conocimientos en la creación y estructuración de contenido web, utilizando etiquetas semánticas y la integración de CSS para el diseño.</string>
+    <string name="html_logo_description">Logo de HTML</string>
+
+    <string name="python">Python</string>
+    <string name="python_description">Habilidades en el desarrollo de scripts, automatización de tareas, análisis de datos y creación de APIs. Fuerte comprensión de la sintaxis y buenas prácticas.</string>
+    <string name="python_logo_description">Logo de Python</string>
+
+    <string name="volver_atras">Volver Atrás</string>
+</resources>

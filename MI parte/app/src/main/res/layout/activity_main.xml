@@ -53,7 +53,6 @@
                     android:textColor="#CCCCCC"
                     android:textSize="14sp"
                     tools:ignore="VisualLintLongText" />
-
             </LinearLayout>
         </androidx.cardview.widget.CardView>
 
@@ -63,7 +62,7 @@
             app:cardCornerRadius="12dp"
             app:cardElevation="8dp"
             android:layout_marginBottom="16dp"
-            android:backgroundTint="#2C2C2C">
+            android:backgroundTint="#802C2C2C">
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -71,96 +70,85 @@
                 android:orientation="vertical"
                 android:padding="20dp">
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="@string/html_nivel_medio"
-                    android:textColor="@android:color/white"
-                    android:textSize="20sp"
-                    android:textStyle="bold"
-                    android:layout_marginBottom="8dp"/>
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="@string/se_utiliza_para_crear_y_estructurar_el_contenido_de_las_p_ginas_web_permite_definir_t_tulos_p_rrafos_enlaces_y_otros_elementos_que_los_navegadores_interpretan_es_la_base_de_cualquier_sitio_web_y_se_complementa_con_css_para_el_dise_o_y_javascript_para_la_interactividad"
-                    android:textColor="#CCCCCC"
-                    android:textSize="14sp"
-                    tools:ignore="VisualLintLongText" />
-
-            </LinearLayout>
-        </androidx.cardview.widget.CardView>
-
-        <androidx.cardview.widget.CardView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            app:cardCornerRadius="12dp"
-            app:cardElevation="8dp"
-            android:layout_marginBottom="16dp"
-            android:backgroundTint="#2C2C2C">
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="vertical"
-                android:padding="20dp">
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="@string/python_nivel_medio"
-                    android:textColor="@android:color/white"
-                    android:textSize="20sp"
-                    android:textStyle="bold"
-                    android:layout_marginBottom="8dp"/>
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="@string/es_un_lenguaje_de_programaci_n_de_alto_nivel_ampliamente_empleado_en_el_desarrollo_web_an_lisis_de_datos_inteligencia_artificial_automatizaci_n_de_tareas_y_aplicaciones_cient_ficas_es_conocido_por_su_sintaxis_simple_y_legible_lo_que_lo_hace_ideal_para_principiantes_y_para_proyectos_complejos"
-                    android:textColor="#CCCCCC"
-                    android:textSize="14sp"
-                    tools:ignore="VisualLintLongText" />
-
-            </LinearLayout>
-        </androidx.cardview.widget.CardView>
-
-        <androidx.cardview.widget.CardView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            app:cardCornerRadius="12dp"
-            app:cardElevation="8dp"
-            android:layout_marginBottom="16dp"
-            android:backgroundTint="#2C2C2C">
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="vertical"
-                android:gravity="center_horizontal"
-                android:padding="20dp">
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="@string/cont_ctame_por_whatsapp"
-                    android:textColor="@android:color/white"
-                    android:textSize="18sp"
-                    android:textStyle="bold"
+                <ImageView
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center_horizontal"
+                    android:src="@drawable/img_html"
+                    android:contentDescription="@string/html_logo_description"
                     android:layout_marginBottom="12dp"/>
 
-                <Button
-                    android:id="@+id/whatsapp_button"
-                    android:layout_width="match_parent"
+                <TextView
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:backgroundTint="#25D366"
-                    android:text="@string/enviar_mensaje"
-                    android:textColor="#5D4037"
-                    app:cornerRadius="24dp"
-                    tools:ignore="VisualLintButtonSize" />
+                    android:text="@string/html"
+                    android:textColor="@android:color/white"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:layout_marginBottom="8dp"/>
 
+                <TextView
+                    android:id="@+id/html_description"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/html_description"
+                    android:textColor="#CCCCCC"
+                    android:textSize="14sp"
+                    tools:ignore="VisualLintLongText" />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
 
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="8dp"
+            android:layout_marginBottom="16dp"
+            android:backgroundTint="#802C2C2C">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="20dp">
+
+                <ImageView
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center_horizontal"
+                    android:src="@drawable/python_logo"
+                    android:contentDescription="@string/python_logo_description"
+                    android:layout_marginBottom="12dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/python"
+                    android:textColor="@android:color/white"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:layout_marginBottom="8dp"/>
+
+                <TextView
+                    android:id="@+id/python_description"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/python_description"
+                    android:textColor="#CCCCCC"
+                    android:textSize="14sp"
+                    tools:ignore="VisualLintLongText" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <Button
+            android:id="@+id/back_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:backgroundTint="#424242"
+            android:text="@string/volver_atras"
+            android:textColor="@color/white"
+            app:cornerRadius="24dp"
+            tools:ignore="VisualLintButtonSize" />
     </LinearLayout>
 </ScrollView>
