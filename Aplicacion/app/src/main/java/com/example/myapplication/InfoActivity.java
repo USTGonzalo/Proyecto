@@ -1,6 +1,7 @@
 package com.example.myapplication;
 
 import android.os.Bundle;
+import android.widget.Button;
 import android.widget.TableLayout;
 import android.widget.TableRow;
 import android.widget.TextView;
@@ -27,6 +28,9 @@ public class InfoActivity extends AppCompatActivity {
         addRow(tableLayout, "Email", email);
         addRow(tableLayout, "Teléfono", telefono);
         addRow(tableLayout, "Mensaje", mensaje);
+
+        Button Back = findViewById(R.id.BTN_menu);
+        Back.setOnClickListener(v -> finish());
     }
 
     private void addRow(TableLayout tableLayout, String key, String value) {
@@ -60,5 +64,7 @@ public class InfoActivity extends AppCompatActivity {
 
         tableLayout.addView(row);
     }
+
+
 
 }
