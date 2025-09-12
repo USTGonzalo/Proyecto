@@ -1,8 +1,8 @@
+-- Integrantes: Gonzalo Fuentes, Aaron Centeno, Benjamin Pizarro, Ignacio Navarrete
+
 La carpeta *ANDROID* contiene los archivos PHP que se realizaron para la conexión a la MYSQL
 Si es necesario, hay que cambiar la ruta de la conexión en *LINEA 48* executeService("http://172.26.10.184:80/android/insertar.php") que es mi localhost. Archivo Formsactivity.java
 también en *LINEA 24* String URL = "http://172.26.10.184:80/android/select.php"
-
--- Integrantes: Gonzalo Fuentes, Aaron Centeno, Benjamin Pizarro, Ignacio Navarrete
 
 -- Hay que insertar varios valores para que se active el scroll>
 
