@@ -24,7 +24,7 @@
             android:layout_height="1200dp"
 
             android:orientation="vertical"
-            tools:ignore="UseCompoundDrawables">
+            tools:ignore="UseCompoundDrawables,TextSizeCheck">
 
             <ImageView
                 android:id="@+id/imageView2"
@@ -38,9 +38,9 @@
                 android:id="@+id/textView2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
                 android:text="@string/gonzalo_fuentes"
                 android:textAlignment="center"
-                android:gravity="center_horizontal"
                 android:textColor="@color/white"
                 android:textSize="24sp"
                 tools:ignore="TextContrastCheck" />
@@ -105,9 +105,9 @@
                     android:id="@+id/imageView7"
                     android:layout_width="125dp"
                     android:layout_height="125dp"
+                    android:layout_gravity="center"
                     android:contentDescription="@string/sourcepawn"
                     app:srcCompat="@drawable/html"
-                    android:layout_gravity="center"
                     tools:ignore="ImageContrastCheck" />
 
                 <ImageView
@@ -123,11 +123,19 @@
                     android:id="@+id/imageView9"
                     android:layout_width="125dp"
                     android:layout_height="125dp"
-                    android:contentDescription="@string/java"
                     android:layout_gravity="center"
+                    android:contentDescription="@string/java"
                     app:srcCompat="@drawable/javascript"
                     tools:ignore="ImageContrastCheck" />
             </LinearLayout>
+
+            <Button
+                android:id="@+id/BTN_regresar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:text="@string/volver_atras"
+                tools:ignore="VisualLintButtonSize" />
 
         </LinearLayout>
     </ScrollView>

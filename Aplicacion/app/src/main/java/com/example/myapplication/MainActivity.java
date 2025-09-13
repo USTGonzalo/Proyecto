@@ -48,6 +48,12 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intent);
         });
 
+        ImageButton GoIgnacio = findViewById(R.id.IMGB_IN);
+        GoIgnacio.setOnClickListener(v -> {
+            Intent intent = new Intent(MainActivity.this, INavarreteActivity.class);
+            startActivity(intent);
+        });
+
         Button Solicitudes = findViewById(R.id.BTN_solis);
         Solicitudes.setOnClickListener(v -> {
             Intent intent = new Intent(MainActivity.this, SolicitudesActivity.class);

@@ -23,7 +23,7 @@
     <string name="cancelar">Cancelar</string>
     <string name="Scroll">Scroll</string>
     <string name="ingeniero_en_inform_tica">Ingeniero en informática</string>
-    <string name="soy_un_desarrollador_apasionado_por_crear_experiencias_digitales_memorables_tanto_en_aplicaciones_como_en_juegos_me_manejo_con_fluidez_en_java_html_css_javascript_c_y_sourcepawn_esta_versatilidad_me_permite_abordar_proyectos_que_van_desde_interfaces_web_y_m_viles_hasta_la_l_gica_y_el_dise_o_de_mec_nicas_de_juego_personalizadas_disfruto_explorar_distintas_tecnolog_as_combinar_programaci_n_estructurada_con_creatividad_interactiva_y_ofrecer_resultados_que_sean_tanto_innovadores_como_funcionales">Soy un desarrollador apasionado por crear experiencias digitales memorables, tanto en aplicaciones como en juegos. Me manejo con fluidez en Java, HTML, CSS, JavaScript, CSSharp y SourcePawn. Esta versatilidad me permite abordar proyectos que van desde interfaces web y móviles hasta la lógica y el diseño de mecánicas de juego personalizadas. Disfruto explorar distintas tecnologías, combinar programación estructurada con creatividad interactiva y ofrecer resultados que sean tanto innovadores como funcionales.</string>
+    <string name="soy_un_desarrollador_apasionado_por_crear_experiencias_digitales_memorables_tanto_en_aplicaciones_como_en_juegos_me_manejo_con_fluidez_en_java_html_css_javascript_c_y_sourcepawn_esta_versatilidad_me_permite_abordar_proyectos_que_van_desde_interfaces_web_y_m_viles_hasta_la_l_gica_y_el_dise_o_de_mec_nicas_de_juego_personalizadas_disfruto_explorar_distintas_tecnolog_as_combinar_programaci_n_estructurada_con_creatividad_interactiva_y_ofrecer_resultados_que_sean_tanto_innovadores_como_funcionales" translatable="false">Soy un desarrollador apasionado por crear experiencias digitales memorables, tanto en aplicaciones como en juegos. Me manejo con fluidez en Java, HTML, CSS, JavaScript, CSSharp y SourcePawn. Esta versatilidad me permite abordar proyectos que van desde interfaces web y móviles hasta la lógica y el diseño de mecánicas de juego personalizadas. Disfruto explorar distintas tecnologías, combinar programación estructurada con creatividad interactiva y ofrecer resultados que sean tanto innovadores como funcionales.</string>
     <string name="html">HTML</string>
     <string name="css">CSS</string>
     <string name="javascript">JAVASCRIPT</string>
@@ -62,7 +62,13 @@
     <string name="python">Python</string>
     <string name="python_description">Habilidades en el desarrollo de scripts, automatización de tareas, análisis de datos y creación de APIs. Fuerte comprensión de la sintaxis y buenas prácticas.</string>
     <string name="python_logo_description">Logo de Python</string>
-
     <string name="volver_atras">Volver</string>
     <string name="detalle_de_la_solicitud">Detalle de la Solicitud</string>
+    <string name="developer_name">Tu Nombre</string>
+    <string name="developer_title">Desarrollador Full Stack</string>
+    <string name="languages_title">Lenguajes de Programación</string>
+    <string name="hire">Contratar</string>
+    <string name="profile_image">Foto de perfil</string>
+    <string name="view_all">Ver todos</string>
+    <string name="edit_profile">Editar Perfil</string>
 </resources>
